@@ -1,0 +1,7 @@
+browser-use==0.1.40
+langchain==0.3.14
+groq
+langchain-groq
+python-dotenv
+tenacity
+playwright

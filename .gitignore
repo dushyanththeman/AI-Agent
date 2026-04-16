@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Screenshots / generated outputs
+screenshots/
+
+# Playwright
+playwright/.cache/
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
